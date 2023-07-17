@@ -1,0 +1,19 @@
+Migrate a DL from on-prem exchange to O365 environment
+Connect to local exchange and run command to export list of DL members
+Hide DL from users on local exchange
+
+
+
+1. Get the x500 LegacyExchangeDN from the DL
+
+2. Get the members of the DL
+
+3. Remove the DL
+
+Cloud
+
+1. Create the DL
+
+2. Add Members to the DL
+
+3. Add Alias x500 equal to the LegacyExchangeDN from above
